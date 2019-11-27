@@ -156,24 +156,24 @@
    button.btn-hire-me{
      background-color: #ffbd39;
      color:#fff;
-     border-radius: 15px;
+     border-radius: 20px;
      border:0;
     padding:15px 15px;
       display: inline;
     text-transform: uppercase;
       font-size: 14px; 
-      outline: hidden;
+      outline: none;
          
    }
    
    button.btn-my-works{
-    outline: hidden;   
+    outline: none;   
      
     font-size: 14px;    
     background-color: #ffbd39;
     color:#fff;
     padding: 5px;
-    border-radius: 15px;
+    border-radius: 20px;
     border:0;
     padding:15px 15px;
     display: inline;
