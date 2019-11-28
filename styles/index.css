@@ -627,3 +627,195 @@ input.hired{
     width: 180px;
     outline: hidden;
 }
+
+#MySkills{
+  width: 100%;
+  height: 600px;
+  margin-top: 300px;
+}
+
+#jane{
+  font-size: 60px;
+  font-family: Arial;
+  color: white;
+  margin-left: 550px;
+  text-shadow: 10px 30px 2px rgb(49, 49, 49);
+
+
+
+}
+
+#poophmoore{
+  font-size: 20px;
+  font-family: Arial;
+  color: white;
+  margin-left: 250px;
+  margin-top: 60px;
+
+
+
+}
+#boomerang{
+  width: 600px;
+  height: 300px;
+  margin-left: 20px;
+  margin-top: 50px;
+  float: left;
+  padding-left: 30px;
+  /* padding-top: 20px; */
+
+
+
+}
+
+#nickelodeon{
+  width: 600px;
+  height: 300px;
+  margin-right: 40px;
+  margin-top: 50px;
+  
+  float: right;
+  padding-left: 20px;
+  
+
+
+
+
+}
+#ghost{
+  display: inline;
+}
+#phot{
+  margin-top: 50px;
+  margin-bottom:-5px;
+  float: left;
+}
+#photo{
+  margin-top: 0px;
+  width: 550px;
+}
+#phot1{
+  margin-top: 50px;
+  margin-bottom:-5px;
+  float: left;
+}
+#photo1{
+  margin-top: 0px;
+  width: 550px;
+}
+#phot2{
+  margin-top: 50px;
+  margin-bottom:-5px;
+  float: left;
+}
+#photo2{
+  margin-top: 0px;
+  width: 550px;
+}
+#phot4{
+  margin-top: 50px;
+  margin-bottom:-5px;
+  float: left;
+}
+#photo4{
+  margin-top: 0px;
+  width: 550px;
+}
+#phot5{
+  margin-top: 50px;
+  margin-bottom:-5px;
+  float: left;
+}
+#photo5{
+  margin-top: 0px;
+  width: 550px;
+}
+#phot6{
+  margin-top: 50px;
+  margin-bottom:-5px;
+  float: left;
+}
+#photo6{
+  margin-top: 0px;
+  width: 550px;
+}
+#nova{
+  float: right;
+  margin-right: 40px;
+  margin-bottom: -5px;
+  margin-top: 50px;
+
+}
+#zika{
+  width: 550px;
+  display: inline-block;
+  color: white;
+
+  
+
+}
+#nova2{
+  float: right;
+  margin-right: 10px;
+  margin-bottom: -5px;
+  margin-top: 50px;
+
+}
+#zika2{
+  width: 550px;
+  display: inline-block;
+  color: white;
+}
+#nova3{
+  float: right;
+  margin-right: 145px;
+  margin-bottom: -5px;
+  margin-top: 50px;
+
+}
+#zika3{
+  width: 550px;
+  display: inline-block;
+  color: white;
+}
+#nova4{
+  float: right;
+  margin-right: 65px;
+  margin-bottom: -5px;
+  margin-top: 50px;
+
+}
+#zika4{
+  width: 550px;
+  display: inline-block;
+  color: white;
+}
+#nova5{
+  float: right;
+  margin-right: 40px;
+  margin-bottom: -5px;
+  margin-top: 50px;
+
+}
+#zika5{
+  width: 550px;
+  display: inline-block;
+  color: white;
+}
+#nova6{
+  float: right;
+  margin-right: 95px;
+  margin-bottom: -5px;
+  margin-top: 50px;
+
+}
+#zika6{
+  width: 550px;
+  display: inline-block;
+  color: white;
+}
+progress{
+  color: gold;
+  background-color: rgb(68, 68, 68);
+
+}
