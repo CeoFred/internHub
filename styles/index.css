@@ -670,15 +670,17 @@ p{
   div.footer__container__col {
   float: left;
   width: 25%;
-  height: 200px;
+  height: 300px;
   color:#fff;
   }
   div.footer__container__content{
   font-size: 13px;
-  text-justify: newspaper
+  text-justify: newspaper;
+  position: relative;
   }
   h4.footer__container__title{
   font-weight: bolder;
+  padding-left:17px;
   }
   ul.footer__container__content__list__items {
   padding-left: 0;
@@ -686,6 +688,8 @@ p{
   ul.footer__container__content__list__items li {
   padding-top:5px;
   padding-bottom: 5px;
+  display: block;
+  text-align: left;
   }
   span.social__icons__container {
   background-color: grey;
